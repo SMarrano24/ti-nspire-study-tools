@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+.venv/
+*.out
+tests/shots/
+tests/sc/
+tests/algsolve/
+tests/physolve/
+tests/*.json
+*_nspire/
+converter/Nspire Convert.app/
